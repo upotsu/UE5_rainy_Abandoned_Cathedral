@@ -1,5 +1,3 @@
-# UE5_rainy_Abandoned_Cathedral
-
 # UE5 Niagara 雨エフェクト（自作）
 Unreal Engine 5 の Niagara を使って作成した雨のエフェクトです。
 下記の動画でプレビューできます。
